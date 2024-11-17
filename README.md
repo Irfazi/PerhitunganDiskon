@@ -117,7 +117,7 @@ public PerhitunganDiskon() {
     } 
 
 ## Contoh Gambar Project Setelah di Run
-![]()
+![](https://github.com/Irfazi/PerhitunganDiskon/blob/main/Screenshot%202024-11-17%20190514.png)
 
 ## Indikator Penilaian:
 
